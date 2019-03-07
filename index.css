@@ -1,9 +1,18 @@
 .image-container {
   text-align: center;
   margin: auto;
-  padding: 8px 8px
+  padding: 0px 0px;
 
 
+}
+
+.image-show{
+  width: 32%;
+  margin: 0px;
+  border-style: solid;
+  border-color: beige;
+  border-width: medium;
+  border-radius: 3%;
 }
 
 .images {
