@@ -1,7 +1,9 @@
 .image-container {
   text-align: center;
   margin: auto;
-  padding: 8px 8px;
+  padding: 8px 8px
+
+
 }
 
 .images {
@@ -18,7 +20,13 @@
 .intro {
   text-align: center;
   font-size: 36px;
+  padding: 8px 8px;
+  margin-left: 30%;
+  margin-right: 30%;
   font-family: sans-serif;
   border-style: solid;
+  border-color: beige;
+  border-radius: 10px;
+  background-color: beige;
 
 }
